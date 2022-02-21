@@ -16,6 +16,7 @@ function imc () {
 
         let classificacao = '';
 
+
         if (valorIMC  < 18.5){
             classificacao = 'abaixo do peso. ';
         }else if (valorIMC < 25) {
